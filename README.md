@@ -6,13 +6,16 @@
     Hey Everyone! I'm Adar. <img src="wave.gif" width="70px">
 </h2>
 <p>
-    I am majoring in computer science at Duke Univeristy (minor in AI & ML), and a member of Duke's Division I wrestling team. I'm currently located in Palo Alto, California. 
+    I'm majoring in computer science at Duke Univeristy (minor in AI & ML), and am a member of Duke's Division I wrestling team. I'm interested in software engineering and product management. In my free time I enjoy cooking, hiking and playing spikeball.
+
+    📍Currently located in: Palo Alto, California
+
 </p>
 <h2>Connect with Me</h2>
 
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
-![LinkedIn] <a href="https://www.linkedin.com/in/adarschwarzbach/"> (https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://www.linkedin.com/in/adarschwarzbach/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
@@ -33,7 +36,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 
-
+<br><br>
 <h2>
     💻 Check out some of my favorite projects! ⬇️
 </h2>
