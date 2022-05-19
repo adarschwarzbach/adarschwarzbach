@@ -2,7 +2,7 @@
 
 ![Header](header.png?raw=true "Header")
 
-<h2> <img src="wave.gif" width="30px"> Hey everyone!</h2>
+<h2 style="text-decoration:none; text-align:center;"> <img src="wave.gif" width="60px"> Hey everyone! I'm Adar.</h2>
 
 <h2> ⚒️Technologies: </h2>
 
