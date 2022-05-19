@@ -10,13 +10,11 @@
 
 <h3>📍Currently located in: Palo Alto, California</h3>
 
-<h3>📧 Email:</h3>
+<h5>📧 Email:</h5>
 <p>
 
     adar.schwarzbach@duke.edu
-
 </p>
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarschwarzbach/)
 
 
