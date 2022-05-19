@@ -7,15 +7,17 @@
 </h2>
 <p>
     I'm majoring in computer science at Duke Univeristy (minor in AI & ML), and am a member of Duke's Division I wrestling team. I'm interested in software engineering and product management. In my free time I enjoy cooking, hiking and playing spikeball.
+<h5>📍Currently located in: Palo Alto, California</h5>
 
-<h3>📍Currently located in: Palo Alto, California</h3>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarschwarzbach/)
 
-<h5>📧 Email:</h5>
+<h3>📧 Email:</h3>
 <p>
 
     adar.schwarzbach@duke.edu
 </p>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarschwarzbach/)
+
+
 
 
 <h2> ⚒️Technologies & Tools:</h2>
