@@ -6,7 +6,7 @@
     Hey Everyone! I'm Adar. <img src="wave.gif" width="70px">
 </h2>
 I'm majoring in computer science at Duke Univeristy (minor in AI & ML), and am a member of Duke's Division I wrestling team. I'm interested in software engineering and product management. In my free time I enjoy cooking, hiking and playing spikeball.
-
+<br>
 **📍Currently located in: Palo Alto, California**
 
 <!-- [[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarschwarzbach/)] -->
@@ -14,7 +14,6 @@ I'm majoring in computer science at Duke Univeristy (minor in AI & ML), and am a
 **📧 Email:**
 <p>
 <p>
-
     adar.schwarzbach@duke.edu   
 </p>
 
@@ -36,7 +35,7 @@ I'm majoring in computer science at Duke Univeristy (minor in AI & ML), and am a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-
+<!-- later I want to add in my stats styled cool here -->
 <br><br>
 <h2>
     💻 Check out some of my favorite projects! ⬇️
