@@ -9,15 +9,13 @@
     I'm majoring in computer science at Duke Univeristy (minor in AI & ML), and am a member of Duke's Division I wrestling team. I'm interested in software engineering and product management. In my free time I enjoy cooking, hiking and playing spikeball.
 
     📍Currently located in: Palo Alto, California
+    📧 contact: adar.schwarzbach@duke.edu
+
+    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarschwarzbach/)
+
+
 
 </p>
-<h2>Connect with Me</h2>
-
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarschwarzbach/)
-
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 <h2> ⚒️Technologies & Tools:</h2>
 
@@ -27,7 +25,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
 
 <br>
 
