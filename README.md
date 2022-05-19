@@ -9,9 +9,7 @@ I'm majoring in computer science at Duke Univeristy (minor in AI & ML), and am a
 <br>
 <br>
 
-**📍Currently located in: Palo Alto, California**
-
-
+<!-- **📍Currently located in: Palo Alto, California** -->
 **📧 Email:**
 <p>
 
