@@ -2,14 +2,14 @@
 
 ![Header](header.png?raw=true "Header")
 
-<p align = center></p>
 
-<h1 style = "text-align: center;">
-    <img src="wave.gif" width="60px"> Hey everyone, I'm Adar. <img src="wave.gif" width="60px">
-</h1>
+<div style = "display:flex; flex-direction:collumn; align-items: center;">
+    <h1 style = "text-align: center;">
+        <img src="wave.gif" width="60px"> Hey everyone, I'm Adar. <img src="wave.gif" width="60px">
+    </h1>
+</div>
 
-<h3 style= "text-align: center;”>  Hey everyone! I'm Adar.
-</h3>
+
 
 <h2> ⚒️Technologies: </h2>
 
