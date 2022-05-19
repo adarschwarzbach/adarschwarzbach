@@ -2,7 +2,7 @@
 
 ![Header](header.png?raw=true "Header")
 
-<h1><img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">Hey everyone!</h1>
+<h2> <img src="wave.gif" width="30px"> Hey everyone!</h2>
 
 <h2> ⚒️Technologies: </h2>
 
