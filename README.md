@@ -2,7 +2,9 @@
 
 ![Header](header.png?raw=true "Header")
 
-<h2 align= ”center”> <img src="wave.gif" width="60px"> Hey everyone! I'm Adar.</h2>
+<p align = center></p>
+
+<h3 text-align=”center”> <img src="wave.gif" width="60px" align=”center”> Hey everyone! I'm Adar.</h3>
 
 <h2> ⚒️Technologies: </h2>
 
