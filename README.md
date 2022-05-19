@@ -3,8 +3,8 @@
 ![Header](header.png?raw=true "Header")
 
 
-<div style = "display:flex; flex-direction:collumn; align-items: center;">
-    <h1 style = "text-align: center;">
+<div style = "align-self:center;">
+    <h1>
         <img src="wave.gif" width="60px"> Hey everyone, I'm Adar. <img src="wave.gif" width="60px">
     </h1>
 </div>
