@@ -2,10 +2,10 @@
 
 ![Header](header.png?raw=true "Header")
 
-<h2>
+<h1>
     Hey Everyone! I'm Adar. <img src="wave.gif" width="70px">
-</h2>
-I'm majoring in computer science at Duke Univeristy (minor in AI & ML), and am a member of Duke's Division I wrestling team. I'm interested in software engineering and product management. In my free time I enjoy cooking, hiking and playing spikeball.
+</h1>
+I am majoring in computer science at Duke Univeristy (minor in AI & ML), and am a member of Duke's Division I wrestling team. I'm interested in software engineering and product management. In my free time I enjoy cooking, hiking and playing spikeball.
 <br>
 <br>
 
