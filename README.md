@@ -2,6 +2,7 @@
 
 ![Header](header.png?raw=true "Header")
 
+
 <h1>
     Hey Everyone! I'm Adar. <img src="wave.gif" width="70px">
 </h1>
@@ -19,7 +20,7 @@ I am majoring in computer science at Duke Univeristy (minor in AI & ML), and am 
 
 
 
-<h2> ⚒️Technologies & Tools:</h2>
+<h2> ⚒️Tools & Technologies:</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -36,6 +37,7 @@ I am majoring in computer science at Duke Univeristy (minor in AI & ML), and am 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 <!-- later I want to add in my stats styled cool here -->
 <br><br>
+[![Adars's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarschwarzbach&count_private=true&show_icons=true&theme=onedark)](https://github.com/adarschwarzbach/github-readme-stats)
 <h2>
     💻 Check out some of my favorite projects! ⬇️
 </h2>
