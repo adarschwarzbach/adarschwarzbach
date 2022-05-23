@@ -39,6 +39,8 @@ I am majoring in computer science at Duke Univeristy (minor in AI & ML), and am 
 <br><br>
 [![Adars's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarschwarzbach&count_private=true&show_icons=true&theme=onedark&hide=stars,prs,issues,contribs)](https://github.com/adarschwarzbach/github-readme-stats)
 
+[![Adar's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adarschwarzbach)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><br>
 <h2>
     💻 Check out some of my favorite projects! ⬇️
