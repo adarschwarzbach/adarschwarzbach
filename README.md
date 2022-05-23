@@ -37,9 +37,7 @@ I am majoring in computer science at Duke Univeristy (minor in AI & ML), and am 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 <!-- later I want to add in my stats styled cool here -->
 <br><br>
-[![Adars's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarschwarzbach&count_private=true&show_icons=true&theme=onedark&hide=stars,prs,issues,contribs)](https://github.com/adarschwarzbach/github-readme-stats)
-
-[![Adar's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adarschwarzbach)](https://github.com/anuraghazra/github-readme-stats)
+[![Adars's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarschwarzbach&count_private=true&show_icons=true&theme=onedark&hide=stars,prs,issues,contribs&cache_seconds=Adar's commits)](https://github.com/adarschwarzbach/github-readme-stats)
 
 <br><br>
 <h2>
