@@ -37,9 +37,8 @@ I am majoring in computer science at Duke Univeristy (minor in AI & ML), and am 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 <!-- later I want to add in my stats styled cool here -->
 <br><br>
-[![Adars's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarschwarzbach&count_private=true&show_icons=true&theme=onedark)](https://github.com/adarschwarzbach/github-readme-stats)
+[![Adars's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarschwarzbach&count_private=true&show_icons=true&theme=onedark&hide=stars,prs,issues,contribs)](https://github.com/adarschwarzbach/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarschwarzbach&layout=compact)](https://github.com/adarschwarzbach/github-readme-stats)
 <br><br>
 <h2>
     💻 Check out some of my favorite projects! ⬇️
