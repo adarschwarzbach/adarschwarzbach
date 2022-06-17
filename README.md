@@ -20,7 +20,7 @@ I am majoring in computer science at Duke Univeristy (minor in AI & ML), and am 
 
 
 
-<h2> ⚒️Tools & Technologies:</h2>
+<h2> ⚒️Technology & Tools:</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
