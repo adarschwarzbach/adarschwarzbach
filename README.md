@@ -4,7 +4,7 @@
 
 
 <h1>
-    Hey Everyone! I'm Adar. <img src="wave.gif" width="20px">
+    Hey Everyone! I'm Adar. <img src="wave.gif" width="20px"/>
 </h1>
 I am majoring in computer science at Duke Univeristy (minor in AI & ML), and am a member of Duke's Division I wrestling team. I'm interested in software engineering and product management. In my free time I enjoy cooking, hiking and playing spikeball.
 <br>
