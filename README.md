@@ -50,6 +50,8 @@ I am majoring in computer science at Duke Univeristy (minor in AI & ML), and am 
 
 <!-- later I want to add in my stats styled cool here -->
 <br><br>
+<h2> 📈Stats:</h2>
+
 [![Adar's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adarschwarzbach&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
