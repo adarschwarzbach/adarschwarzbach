@@ -6,7 +6,7 @@
 <h1>
     Hey Everyone! I'm Adar. <img src="wave.gif" width="70">
 </h1>
-I am majoring in computer science at Duke Univeristy, and am a member of Duke's Division I wrestling team. I'm interested in software engineering and product management. In my free time I enjoy cooking, hiking and playing spikeball.
+I'm a computer science major at Duke University, and a part of our Division I wrestling team. I enjoy ideating, defining and building sleek products. In my free time I like to cook and hike.
 <br>
 <br>
 
