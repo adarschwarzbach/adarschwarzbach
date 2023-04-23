@@ -3,12 +3,11 @@
 ![Header](header.png?raw=true "Header")
 
 
-<h1>
-    Hey Everyone! I'm Adar. <img src="wave.gif" width="70">
-</h1>
-    I'm a computer science major at Duke University. I enjoy ideating, defining and building sleek products. In my free time I like to lift, climb and cook. This coming summer I will be working as a Full-Stack Software Engineer Intern at ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) .
-<br>
-<br>
+# Hey Everyone! I'm Adar. <img src="wave.gif" width="70">
+
+I'm a computer science major at Duke University. I enjoy ideating, defining, and building sleek products. In my free time, I like to lift, climb, and cook. This coming summer, I will be working as a Full-Stack Software Engineer Intern at ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white).
+
+
 
 <!-- **📍Currently located in: Palo Alto, California** -->
 **📧 Email:**
@@ -31,6 +30,7 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 <h5>Back-End:<h5>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -38,6 +38,7 @@
 
 
 <h5>Data & Database:<h5>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
