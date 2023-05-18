@@ -5,7 +5,7 @@
 
 # Hey Everyone! I'm Adar. <img src="wave.gif" width="70">
 
-I'm a computer science major at Duke University. I enjoy ideating, defining, and building sleek products. In my free time, I like to lift, climb, and cook. This coming summer, I will be working as a Full-Stack Software Engineer Intern at <img ialt="PlayStation" width="80px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+<!-- I'm a computer science major at Duke University. I enjoy ideating, defining, and building sleek products. In my free time, I like to lift, climb, and cook. This coming summer, I will be working as a Full-Stack Software Engineer Intern at <img ialt="PlayStation" width="80px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" /> -->
 
 <br>
 
