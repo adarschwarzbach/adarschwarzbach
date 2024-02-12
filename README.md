@@ -5,7 +5,7 @@
 
 # Hey Everyone! I'm Adar. <img src="wave.gif" width="70">
 
-Currently studying [CS at Duke](https://cs.duke.edu/) and working as a Research SWE with the [Stanford Microfluidics Laboratory](https://microfluidics.stanford.edu/). Incoming SWE Intern at [](https://image.cnbcfm.com/api/v1/image/104556423-steve-jobs-iphone-10-years.jpg?v=1532563811&w=740&h=416&ffmt=webp&vtcrop=y) and previous SWE Intern at [Playstation](https://www.playstation.com/en-us/). In my free time I enjoy [bouldering](https://www.theguardian.com/artanddesign/2020/feb/27/free-solo-star-alex-honnold-falling-off-a-mountain-keith-ladzinski-best-photograph#img-2), [sitting outside on sunnny days](https://eventservices.duke.edu/sites/default/files/styles/dws_feature_image/public/thumbnails/image/BryanCenterPlaza_MelaniePark1.jpg?itok=-qIVIVbY) and [wrestling](https://goduke.com/sports/wrestling/roster/adar-schwarzbach/17865).
+Currently studying [CS at Duke](https://cs.duke.edu/) and working as a Research SWE with the [Stanford Microfluidics Laboratory](https://microfluidics.stanford.edu/). Incoming SWE Intern at [](https://image.cnbcfm.com/api/v1/image/104556423-steve-jobs-iphone-10-years.jpg?v=1532563811&w=740&h=416&ffmt=webp&vtcrop=y) and previous SWE Intern at [Playstation](https://www.playstation.com/en-us/). In my free time I enjoy [bouldering](https://www.theguardian.com/artanddesign/2020/feb/27/free-solo-star-alex-honnold-falling-off-a-mountain-keith-ladzinski-best-photograph#img-2), [sitting outside on a sunnny day](https://eventservices.duke.edu/sites/default/files/styles/dws_feature_image/public/thumbnails/image/BryanCenterPlaza_MelaniePark1.jpg?itok=-qIVIVbY) and [wrestling](https://goduke.com/sports/wrestling/roster/adar-schwarzbach/17865).
 
 <br>
 
