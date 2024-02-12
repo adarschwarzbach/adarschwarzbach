@@ -5,8 +5,8 @@
 
 # Hey Everyone! I'm Adar. <img src="wave.gif" width="70">
 
-I'm a computer science major at Duke University. In my free time, I like to lift, climb, and cook. I am currently working as a Research Software Engineer with the Stanford University Microfluidics Laboratory. This past summer I worked as a Full-Stack Software Engineer Intern at <img ialt="PlayStation" width="80px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />. This coming summer I'll be working as a SWE Intern at .
-<br>
+<!-- I'm studying CS at Duke University. I am currently working as a Research SWE with the Stanford University Microfluidics Laboratory. This past summer I worked as a SWE Intern at <img ialt="PlayStation" width="80px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />. This coming summer I'll be working as a SWE Intern at .
+<br> -->
 
 <!-- **📍Currently located in: Palo Alto, California** -->
 **📧 Email:**
