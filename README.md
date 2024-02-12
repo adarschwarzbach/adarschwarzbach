@@ -5,8 +5,7 @@
 
 # Hey Everyone! I'm Adar. <img src="wave.gif" width="70">
 
-<!-- I'm a computer science major at Duke University. I enjoy ideating, defining, and building sleek products. In my free time, I like to lift, climb, and cook. I am currently working as a Research Software Engineer with the Stanford University Microfluidics Laboratory. This past summer I worked as a Full-Stack Software Engineer Intern at <img ialt="PlayStation" width="80px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" /> -->
-
+I'm a computer science major at Duke University. In my free time, I like to lift, climb, and cook. I am currently working as a Research Software Engineer with the Stanford University Microfluidics Laboratory. This past summer I worked as a Full-Stack Software Engineer Intern at <img ialt="PlayStation" width="80px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />. This coming summer I'll be working as a SWE Intern at .
 <br>
 
 <!-- **📍Currently located in: Palo Alto, California** -->
@@ -63,7 +62,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 <br>
 
