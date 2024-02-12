@@ -5,8 +5,10 @@
 
 # Hey Everyone! I'm Adar. <img src="wave.gif" width="70">
 
-<!-- I'm studying CS at Duke University. I am currently working as a Research SWE with the Stanford University Microfluidics Laboratory. This past summer I worked as a SWE Intern at <img ialt="PlayStation" width="80px" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />. This coming summer I'll be working as a SWE Intern at .
-<br> -->
+Currently studying CS at Duke and working as a Research SWE with the Stanford Microfluidics Laboratory. Incoming SWE Intern at . Previous SWE Intern at Playstation. 
+
+<br>
+
 
 <!-- **📍Currently located in: Palo Alto, California** -->
 **📧 Email:**
