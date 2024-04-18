@@ -6,7 +6,7 @@
 # Hey Everyone! I'm Adar. <img src="wave.gif" width="70">
 
 - Incoming SWE Intern @ <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="Apple" height="20" style="vertical-align: -2px;"/>
-- Current Research SWE @ the Stanford University [Microfluidics Laboratory](https://microfluidics.stanford.edu/)
+- Current Research SWE @ [the Stanford University Microfluidics Laboratory](https://microfluidics.stanford.edu/)
 - Previous SWE Intern @ <img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="Playstation" height="20" style="vertical-align: -2px;"/>
 
 
