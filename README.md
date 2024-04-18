@@ -5,6 +5,10 @@
 
 # Hey Everyone! I'm Adar. <img src="wave.gif" width="70">
 
+- Incoming SWE Intern @ ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+- Current Research SWE @ the Stanford University (Microfludics Laboratory )[https://microfluidics.stanford.edu/]
+- Previous SWE Intern @ ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+
 <!-- Currently studying [CS at Duke](https://cs.duke.edu/) and working as a Research SWE with the [Stanford Microfluidics Laboratory](https://microfluidics.stanford.edu/). Incoming SWE Intern at [](https://image.cnbcfm.com/api/v1/image/104556423-steve-jobs-iphone-10-years.jpg?v=1532563811&w=740&h=416&ffmt=webp&vtcrop=y) and previous SWE Intern at [Playstation](https://www.playstation.com/en-us/). In my free time I enjoy [bouldering](https://www.theguardian.com/artanddesign/2020/feb/27/free-solo-star-alex-honnold-falling-off-a-mountain-keith-ladzinski-best-photograph#img-2), [sitting outside on a sunnny day](https://eventservices.duke.edu/sites/default/files/styles/dws_feature_image/public/thumbnails/image/BryanCenterPlaza_MelaniePark1.jpg?itok=-qIVIVbY) and [wrestling](https://goduke.com/sports/wrestling/roster/adar-schwarzbach/17865). -->
 
 <br>
@@ -28,6 +32,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -42,9 +47,10 @@
 
 <h5>Data & Database:<h5>
 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
