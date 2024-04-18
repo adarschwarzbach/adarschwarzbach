@@ -13,7 +13,7 @@
 - <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="Apple" height="20" style="vertical-align: -2px;"/> 
 - <img src="https://d29vmu15ua1e0a.cloudfront.net/uploads/seo/logo__stanford-research-park.png" height="20" style="vertical-align: -2px;"/> 
 - <img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="Playstation" height="20" style="vertical-align: -2px;"/>
-- <img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/30595167_10215953590730692_5210804243635634176_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gOSnK8Y05J4Ab7gENag&_nc_ht=scontent-iad3-1.xx&oh=00_AfC1W0ZhrLo2_qxIyyzsuskTY3ni6QemzVwMDjrK5xw0hA&oe=6648B5C7" height="40" style="vertical-align: -2px;"/> 
+- <img src="https://users.cs.duke.edu/~zzy/images/contact/duke_cs.jpg" height="25" style="vertical-align: -2px;"/> 
 
 
 
