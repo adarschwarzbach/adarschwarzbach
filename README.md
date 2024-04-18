@@ -13,7 +13,7 @@
 - <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="Apple" height="20" style="vertical-align: -2px;"/> 
 - <img src="https://d29vmu15ua1e0a.cloudfront.net/uploads/seo/logo__stanford-research-park.png" height="20" style="vertical-align: -2px;"/> 
 - <img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="Playstation" height="20" style="vertical-align: -2px;"/>
-- <img src="https://users.cs.duke.edu/~zzy/images/contact/duke_cs.jpg" height="25" style="vertical-align: -2px;"/> 
+- <img src="https://content.sportslogos.net/logos/31/663/full/5358_duke_blue_devils-wordmark-1879.png" height="25" style="vertical-align: -2px;"/> 
 
 
 
